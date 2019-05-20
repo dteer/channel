@@ -4,8 +4,8 @@ django入门级别channel应用
 # [参考文档](https：//channels.readthedocs.io/en/latest/introduction.html)
 
 # 部署预装
-  1、pip install channal
-  2、pip install channal-redis
-  3、redis
-  4、pip install django > 2.2
+    1、pip install channal
+    2、pip install channal-redis
+    3、redis
+    4、pip install django > 2.2
   
